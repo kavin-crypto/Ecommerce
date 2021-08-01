@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="All Test Suite" duration-ms="13809" started-at="2021-07-30T15:59:21 IST" finished-at="2021-07-30T15:59:35 IST">
+    <groups>
+    </groups>
+    <test name="PgObjDesign" duration-ms="13809" started-at="2021-07-30T15:59:21 IST" finished-at="2021-07-30T15:59:35 IST">
+      <class name="tc.PageTest">
+        <test-method status="PASS" signature="invoke()[pri:0, instance:tc.PageTest@5e7cd6cc]" name="invoke" is-config="true" duration-ms="2549" started-at="2021-07-30T15:59:21 IST" finished-at="2021-07-30T15:59:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invoke -->
+        <test-method status="PASS" signature="LoginPage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:tc.PageTest@5e7cd6cc]" name="LoginPage" duration-ms="900" started-at="2021-07-30T15:59:26 IST" data-provider="data" finished-at="2021-07-30T15:59:26 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sam]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sam@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[password]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[10/05/2022]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginPage -->
+        <test-method status="PASS" signature="LoginPage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:tc.PageTest@5e7cd6cc]" name="LoginPage" duration-ms="514" started-at="2021-07-30T15:59:26 IST" data-provider="data" finished-at="2021-07-30T15:59:27 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chopper]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Chopper@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[qws#$56sc]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[31/12/2000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginPage -->
+        <test-method status="PASS" signature="LoginPage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:tc.PageTest@5e7cd6cc]" name="LoginPage" duration-ms="597" started-at="2021-07-30T15:59:27 IST" data-provider="data" finished-at="2021-07-30T15:59:28 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ankitha]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Ankitha@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[!@#$%^]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Female]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[3/1/1999]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginPage -->
+        <test-method status="PASS" signature="close()[pri:0, instance:tc.PageTest@5e7cd6cc]" name="close" is-config="true" duration-ms="278" started-at="2021-07-30T15:59:28 IST" finished-at="2021-07-30T15:59:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- tc.PageTest -->
+      <class name="tc.ShopTest">
+        <test-method status="PASS" signature="invoke()[pri:0, instance:tc.ShopTest@68c9d179]" name="invoke" is-config="true" duration-ms="1650" started-at="2021-07-30T15:59:24 IST" finished-at="2021-07-30T15:59:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invoke -->
+        <test-method status="PASS" signature="MobileBrandSelection()[pri:0, instance:tc.ShopTest@68c9d179]" name="MobileBrandSelection" duration-ms="1708" started-at="2021-07-30T15:59:28 IST" finished-at="2021-07-30T15:59:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileBrandSelection -->
+        <test-method status="PASS" signature="MobileCheckout()[pri:0, instance:tc.ShopTest@68c9d179]" name="MobileCheckout" duration-ms="102" started-at="2021-07-30T15:59:30 IST" finished-at="2021-07-30T15:59:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileCheckout -->
+        <test-method status="PASS" signature="MobilePurchase()[pri:0, instance:tc.ShopTest@68c9d179]" name="MobilePurchase" duration-ms="5398" started-at="2021-07-30T15:59:30 IST" finished-at="2021-07-30T15:59:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobilePurchase -->
+        <test-method status="PASS" signature="close()[pri:0, instance:tc.ShopTest@68c9d179]" name="close" is-config="true" duration-ms="80" started-at="2021-07-30T15:59:35 IST" finished-at="2021-07-30T15:59:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- tc.ShopTest -->
+    </test> <!-- PgObjDesign -->
+  </suite> <!-- All Test Suite -->
+</testng-results>

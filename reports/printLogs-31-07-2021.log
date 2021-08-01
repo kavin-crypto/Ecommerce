@@ -1,0 +1,149 @@
+15:56:42 [main] INFO  tc.PageTest - Gender: Female
+15:56:42 [main] INFO  tc.PageTest - Date of birth: 3/1/1999
+15:56:42 [main] INFO  tc.PageTest - Successfully datas are entered
+15:59:26 [main] INFO  tc.PageTest - Entering username: Sam
+15:59:26 [main] INFO  tc.PageTest - Entering EmailId: password
+15:59:26 [main] INFO  tc.PageTest - Password is : Sam@gmail.com
+15:59:26 [main] INFO  tc.PageTest - Gender: Male
+15:59:26 [main] INFO  tc.PageTest - Date of birth: 10/05/2022
+15:59:26 [main] INFO  tc.PageTest - Successfully datas are entered
+15:59:26 [main] INFO  tc.PageTest - Entering username: Chopper
+15:59:26 [main] INFO  tc.PageTest - Entering EmailId: qws#$56sc
+15:59:27 [main] INFO  tc.PageTest - Password is : Chopper@gmail.com
+15:59:27 [main] INFO  tc.PageTest - Gender: Male
+15:59:27 [main] INFO  tc.PageTest - Date of birth: 31/12/2000
+15:59:27 [main] INFO  tc.PageTest - Successfully datas are entered
+15:59:27 [main] INFO  tc.PageTest - Entering username: Ankitha
+15:59:27 [main] INFO  tc.PageTest - Entering EmailId: !@#$%^
+15:59:27 [main] INFO  tc.PageTest - Password is : Ankitha@gmail.com
+15:59:27 [main] INFO  tc.PageTest - Gender: Female
+15:59:27 [main] INFO  tc.PageTest - Date of birth: 3/1/1999
+15:59:27 [main] INFO  tc.PageTest - Successfully datas are entered
+15:59:29 [main] INFO  tc.ShopTest - Selecting mobile model
+15:59:29 [main] INFO  tc.ShopTest - Add to cart
+15:59:30 [main] INFO  tc.ShopTest - verifying the selected mobile name
+15:59:30 [main] INFO  tc.ShopTest - verifying the selected mobile price
+15:59:30 [main] INFO  tc.ShopTest - Delivering location
+15:59:35 [main] INFO  tc.ShopTest - verifying whether success msg is popping up
+16:35:35 [main] INFO  tc.PageTest - Entering username: Sam
+16:35:36 [main] INFO  tc.PageTest - Entering EmailId: password
+16:35:36 [main] INFO  tc.PageTest - Password is : Sam@gmail.com
+16:35:36 [main] INFO  tc.PageTest - Gender: Male
+16:35:36 [main] INFO  tc.PageTest - Date of birth: 10/05/2022
+16:35:36 [main] INFO  tc.PageTest - Successfully datas are entered
+16:35:36 [main] INFO  tc.PageTest - Entering username: Chopper
+16:35:36 [main] INFO  tc.PageTest - Entering EmailId: qws#$56sc
+16:35:36 [main] INFO  tc.PageTest - Password is : Chopper@gmail.com
+16:35:36 [main] INFO  tc.PageTest - Gender: Male
+16:35:36 [main] INFO  tc.PageTest - Date of birth: 31/12/2000
+16:35:37 [main] INFO  tc.PageTest - Successfully datas are entered
+16:35:37 [main] INFO  tc.PageTest - Entering username: Ankitha
+16:35:37 [main] INFO  tc.PageTest - Entering EmailId: !@#$%^
+16:35:37 [main] INFO  tc.PageTest - Password is : Ankitha@gmail.com
+16:35:37 [main] INFO  tc.PageTest - Gender: Female
+16:35:37 [main] INFO  tc.PageTest - Date of birth: 3/1/1999
+16:35:37 [main] INFO  tc.PageTest - Successfully datas are entered
+16:35:39 [main] INFO  tc.ShopTest - Selecting mobile model
+16:35:39 [main] INFO  tc.ShopTest - Add to cart
+16:35:39 [main] INFO  tc.ShopTest - verifying the selected mobile name
+16:35:39 [main] INFO  tc.ShopTest - verifying the selected mobile price
+16:35:39 [main] INFO  tc.ShopTest - Delivering location
+16:35:45 [main] INFO  tc.ShopTest - verifying whether success msg is popping up
+15:52:26 [main] INFO  tc.ShopTest - Launching the browser
+15:52:28 [main] INFO  tc.ShopTest - Landing on an angularPractice site
+15:52:29 [main] INFO  tc.ShopTest - Entering username: Sam
+15:52:29 [main] INFO  tc.ShopTest - Entering emailId: Sam@gmail.com
+15:52:29 [main] INFO  tc.ShopTest - Entering password: password
+15:52:30 [main] INFO  tc.ShopTest - Gender: Male
+15:52:30 [main] INFO  tc.ShopTest - Date of birth: 10/05/2022
+15:52:30 [main] INFO  tc.ShopTest - Successfully data are entered
+15:52:30 [main] INFO  tc.ShopTest - Clicking on shop key
+15:52:31 [main] INFO  tc.ShopTest - Selecting mobile brand: Nokia Edge
+15:52:31 [main] INFO  tc.ShopTest - verifying whether selected mobile is present in checkout page
+15:52:31 [main] INFO  tc.ShopTest - verifying whether selected mobile's price is same in checkout page
+15:52:31 [main] INFO  tc.ShopTest - Entering delivery location: Netherlands
+15:52:37 [main] INFO  tc.ShopTest - verifying that order is placed successfully or not
+15:52:37 [main] INFO  tc.ShopTest - Launching the browser
+15:52:38 [main] INFO  tc.ShopTest - Landing on an angularPractice site
+15:52:38 [main] INFO  tc.ShopTest - Entering username: Chopper
+15:52:39 [main] INFO  tc.ShopTest - Entering emailId: Chopper@gmail.com
+15:52:39 [main] INFO  tc.ShopTest - Entering password: qws#$56sc
+15:52:39 [main] INFO  tc.ShopTest - Gender: Male
+15:52:39 [main] INFO  tc.ShopTest - Date of birth: 12/08/1992
+15:52:39 [main] INFO  tc.ShopTest - Successfully data are entered
+15:52:39 [main] INFO  tc.ShopTest - Clicking on shop key
+15:52:40 [main] INFO  tc.ShopTest - Selecting mobile brand: iphone X
+15:52:40 [main] INFO  tc.ShopTest - verifying whether selected mobile is present in checkout page
+15:52:40 [main] INFO  tc.ShopTest - verifying whether selected mobile's price is same in checkout page
+15:52:40 [main] INFO  tc.ShopTest - Entering delivery location: United States of America
+15:52:46 [main] INFO  tc.ShopTest - verifying that order is placed successfully or not
+15:52:46 [main] INFO  tc.ShopTest - Launching the browser
+15:52:47 [main] INFO  tc.ShopTest - Landing on an angularPractice site
+15:52:47 [main] INFO  tc.ShopTest - Entering username: Ankitha
+15:52:47 [main] INFO  tc.ShopTest - Entering emailId: Ankitha@gmail.com
+15:52:47 [main] INFO  tc.ShopTest - Entering password: !@#$%^
+15:52:47 [main] INFO  tc.ShopTest - Gender: Female
+15:52:48 [main] INFO  tc.ShopTest - Date of birth: 16/04/1999
+15:52:48 [main] INFO  tc.ShopTest - Successfully data are entered
+15:52:48 [main] INFO  tc.ShopTest - Clicking on shop key
+15:52:49 [main] INFO  tc.ShopTest - Selecting mobile brand: Blackberry
+15:52:49 [main] INFO  tc.ShopTest - verifying whether selected mobile is present in checkout page
+15:52:49 [main] INFO  tc.ShopTest - verifying whether selected mobile's price is same in checkout page
+15:52:49 [main] INFO  tc.ShopTest - Entering delivery location: Switzerland
+15:52:54 [main] INFO  tc.ShopTest - verifying that order is placed successfully or not
+18:56:19 [main] INFO  tc.ShopTest - Launching the browser
+18:56:22 [main] INFO  tc.ShopTest - Landing on an angularPractice site
+18:56:22 [main] INFO  tc.ShopTest - Entering username: Sam
+18:56:22 [main] INFO  tc.ShopTest - Entering emailId: Sam@gmail.com
+18:56:22 [main] INFO  tc.ShopTest - Entering password: password
+18:56:22 [main] INFO  tc.ShopTest - Gender: Male
+18:56:23 [main] INFO  tc.ShopTest - Date of birth: 10/05/2022
+18:56:23 [main] INFO  tc.ShopTest - Successfully data are entered
+18:56:23 [main] INFO  tc.ShopTest - Clicking on shop key
+18:56:24 [main] INFO  tc.ShopTest - Selecting mobile brand: Nokia Edge
+18:56:24 [main] INFO  tc.ShopTest - verifying whether selected mobile is present in checkout page
+18:56:24 [main] INFO  tc.ShopTest - verifying whether selected mobile's price is same in checkout page
+18:56:24 [main] INFO  tc.ShopTest - Entering delivery location: Netherlands
+18:56:30 [main] INFO  tc.ShopTest - verifying that order is placed successfully or not
+18:56:30 [main] INFO  tc.ShopTest - Launching the browser
+18:56:31 [main] INFO  tc.ShopTest - Landing on an angularPractice site
+18:56:31 [main] INFO  tc.ShopTest - Entering username: Chopper
+18:56:31 [main] INFO  tc.ShopTest - Entering emailId: Chopper@gmail.com
+18:56:32 [main] INFO  tc.ShopTest - Entering password: qws#$56sc
+18:56:32 [main] INFO  tc.ShopTest - Gender: Male
+18:56:32 [main] INFO  tc.ShopTest - Date of birth: 12/08/1992
+18:56:32 [main] INFO  tc.ShopTest - Successfully data are entered
+18:56:32 [main] INFO  tc.ShopTest - Clicking on shop key
+18:56:33 [main] INFO  tc.ShopTest - Selecting mobile brand: iphone X
+18:56:33 [main] INFO  tc.ShopTest - verifying whether selected mobile is present in checkout page
+18:56:33 [main] INFO  tc.ShopTest - verifying whether selected mobile's price is same in checkout page
+18:56:34 [main] INFO  tc.ShopTest - Entering delivery location: United States of America
+18:56:39 [main] INFO  tc.ShopTest - verifying that order is placed successfully or not
+18:56:39 [main] INFO  tc.ShopTest - Launching the browser
+18:56:40 [main] INFO  tc.ShopTest - Landing on an angularPractice site
+18:56:41 [main] INFO  tc.ShopTest - Entering username: Ankitha
+18:56:41 [main] INFO  tc.ShopTest - Entering emailId: Ankitha@gmail.com
+18:56:41 [main] INFO  tc.ShopTest - Entering password: !@#$%^
+18:56:41 [main] INFO  tc.ShopTest - Gender: Female
+18:56:42 [main] INFO  tc.ShopTest - Date of birth: 16/04/1999
+18:56:42 [main] INFO  tc.ShopTest - Successfully data are entered
+18:56:42 [main] INFO  tc.ShopTest - Clicking on shop key
+18:56:43 [main] INFO  tc.ShopTest - Selecting mobile brand: Blackberry
+18:56:43 [main] INFO  tc.ShopTest - verifying whether selected mobile is present in checkout page
+18:56:43 [main] INFO  tc.ShopTest - verifying whether selected mobile's price is same in checkout page
+18:56:43 [main] INFO  tc.ShopTest - Entering delivery location: Switzerland
+18:56:49 [main] INFO  tc.ShopTest - verifying that order is placed successfully or not
+19:10:32 [main] INFO  tc.PageTest - Entering username: Sam
+19:10:32 [main] INFO  tc.PageTest - Entering EmailId: password
+19:10:32 [main] INFO  tc.PageTest - Password is : Sam@gmail.com
+19:10:32 [main] INFO  tc.PageTest - Gender: Male
+19:10:32 [main] INFO  tc.PageTest - Date of birth: 10/05/2022
+19:10:32 [main] INFO  tc.PageTest - Successfully datas are entered
+19:10:32 [main] INFO  tc.PageTest - Entering username: Chopper
+19:10:32 [main] INFO  tc.PageTest - Entering EmailId: qws#$56sc
+19:10:32 [main] INFO  tc.PageTest - Password is : Chopper@gmail.com
+19:10:32 [main] INFO  tc.PageTest - Gender: Male
+19:10:33 [main] INFO  tc.PageTest - Date of birth: 31/12/2000
+19:10:33 [main] INFO  tc.PageTest - Successfully datas are entered
+19:10:33 [main] INFO  tc.PageTest - Entering username: Ankitha
+19:10:33 [main] INFO  tc.PageTest - Entering EmailId: !@#$%^

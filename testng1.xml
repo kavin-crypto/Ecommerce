@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <listeners>
+        <listener class-name="Listener"/>
+    </listeners>
+    <test name="PgObjDesign">
+        <classes>
+            <class name="tc.PageTest">
+                <methods>
+                    <include name="LoginPage"/>
+                </methods>
+            </class>
+            <class name="tc.ShopTest">
+                <methods>
+                    <include name="MobileBrandSelection"/>
+                    <include name="MobileCheckout"/>
+                    <include name="MobilePurchase"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

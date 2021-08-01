@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [All Test Suite]">
+  <listeners>
+    <listener class-name="TestListener"/>
+  </listeners>
+  <test thread-count="5" name="/Users/kavin/Documents/seleniumautomation/PgObjDesign(failed)">
+    <classes>
+      <class name="tc.ShopTest">
+        <methods>
+          <include name="MobileBrand"/>
+          <include name="invoke"/>
+          <include name="close"/>
+        </methods>
+      </class> <!-- tc.ShopTest -->
+    </classes>
+  </test> <!-- /Users/kavin/Documents/seleniumautomation/PgObjDesign(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->
